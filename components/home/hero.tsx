@@ -134,42 +134,42 @@ export function Hero() {
                 transition={{ repeat: Infinity, duration: 4, ease: "easeInOut" }}
                 className="absolute top-20 right-10 p-3 glass rounded-xl"
               >
-                <img src="https://api.iconify.design/logos:react.svg" className="w-8 h-8" alt="React" />
+                <img src="https://api.iconify.design/logos/react.svg" className="w-8 h-8" alt="React" />
               </motion.div>
               <motion.div 
                 animate={{ y: [0, 15, 0] }}
                 transition={{ repeat: Infinity, duration: 5, ease: "easeInOut", delay: 1 }}
                 className="absolute bottom-20 left-10 p-3 glass rounded-xl"
               >
-                <img src="https://api.iconify.design/logos:nextjs-icon.svg" className="w-8 h-8 invert" alt="Next.js" />
+                <img src="https://api.iconify.design/logos/nextjs-icon.svg" className="w-8 h-8 invert" alt="Next.js" />
               </motion.div>
               <motion.div 
                 animate={{ y: [0, -12, 0] }}
                 transition={{ repeat: Infinity, duration: 4.5, ease: "easeInOut", delay: 0.5 }}
                 className="absolute bottom-40 right-20 p-3 glass rounded-xl"
               >
-                <img src="https://api.iconify.design/logos:shopify.svg" className="w-8 h-8" alt="Shopify" />
+                <img src="https://api.iconify.design/logos/shopify.svg" className="w-8 h-8" alt="Shopify" />
               </motion.div>
               <motion.div 
                 animate={{ y: [0, 10, 0] }}
                 transition={{ repeat: Infinity, duration: 5.5, ease: "easeInOut", delay: 1.5 }}
                 className="absolute top-40 right-8 p-3 glass rounded-xl"
               >
-                <img src="https://api.iconify.design/logos:wordpress-icon.svg" className="w-8 h-8" alt="WordPress" />
+                <img src="https://api.iconify.design/logos/wordpress-icon.svg" className="w-8 h-8" alt="WordPress" />
               </motion.div>
               <motion.div 
                 animate={{ y: [0, -8, 0] }}
                 transition={{ repeat: Infinity, duration: 4.8, ease: "easeInOut", delay: 2 }}
                 className="absolute bottom-12 left-32 p-3 glass rounded-xl"
               >
-                <img src="https://api.iconify.design/logos:woocommerce-icon.svg" className="w-8 h-8" alt="WooCommerce" />
+                <img src="https://api.iconify.design/logos/woocommerce-icon.svg" className="w-8 h-8" alt="WooCommerce" />
               </motion.div>
               <motion.div 
                 animate={{ y: [0, 8, 0] }}
                 transition={{ repeat: Infinity, duration: 5, ease: "easeInOut", delay: 2.5 }}
                 className="absolute bottom-8 right-12 p-3 glass rounded-xl"
               >
-                <img src="https://api.iconify.design/logos:laravel.svg" className="w-8 h-8" alt="Laravel" />
+                <img src="https://api.iconify.design/logos/laravel.svg" className="w-8 h-8" alt="Laravel" />
               </motion.div>
             </div>
           </div>
